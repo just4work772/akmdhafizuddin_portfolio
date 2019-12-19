@@ -3219,3 +3219,10 @@ input, select, textarea {
 			}
 
 	}
+
+	/* custom */
+	.img-small{
+		width: 25rem;
+		height: 20rem;
+
+	}
